@@ -4,6 +4,14 @@ def userInfo():
     
     name = input("Enter your name:  ")
     email = input("Enter your email:  ")
-    password = input("Enter your password:  ")
+    password = int (input("Enter your password:  "))
+    
+    if password < 6:
+        print("Your passwrord is too short! Must be 6 characters and above")
+    else:
+        print(f"Welcome {name}")
+        
+userInfo()
+    
     
     
