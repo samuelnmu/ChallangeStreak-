@@ -22,4 +22,5 @@ Daily schedule.
 -2200hrs: 7.Pray and sleep.
 
 Day 1 : 13th November 2024(Thursday)-Done and Locked In.
-
+Day 2 : 14th November 2024(Friday)-Done and Locked In.
+Day 3 : 15th November 2024(Saturday)-Done and Locked In.
